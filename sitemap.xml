@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.moritz-schwarz.com/teaching.html</loc>
-    <lastmod>2023-07-15T18:52:03.909Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.moritz-schwarz.com/research.html</loc>
-    <lastmod>2023-07-15T18:52:04.302Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.moritz-schwarz.com/policy.html</loc>
-    <lastmod>2023-07-15T18:52:05.102Z</lastmod>
+    <loc>https://www.moritz-schwarz.com/policy/policy.html</loc>
+    <lastmod>2023-07-15T20:16:25.919Z</lastmod>
   </url>
 </urlset>
