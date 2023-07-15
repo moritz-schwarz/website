@@ -3,12 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "website"
+  title: "Moritz Schwarz"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: cv.pdf
+        text: CV
+      - research.qmd
+      - teaching.qmd        
 
 format:
   html:
