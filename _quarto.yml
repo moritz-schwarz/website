@@ -14,12 +14,14 @@ website:
     # logo: images/logo.png
     pinned: true
     right:
-      - href: index.qmd
-        text: Home
-      - href: cv.pdf
-        text: CV
-      - research.qmd
-      - teaching.qmd        
+      - text: Home
+        href: index.qmd
+      - text: CV
+        href: cv/cv.pdf
+      - text: Research  
+        href: research/index.qmd
+      - text: Teaching
+        href: teaching/index.qmd        
   page-footer: 
     left: |
       <span class="faux-block">&#169; 2023 Moritz Schwarz</span>
