@@ -10,6 +10,7 @@ website:
   # image: images/logo.png
   # favicon: images/logo.png
 
+# navigation bar and sections
   navbar:
     # logo: images/logo.png
     pinned: true
@@ -24,9 +25,12 @@ website:
         href: teaching/index.qmd        
       # - text: Policy
       #   href: policy/index.qmd 
+  search: true
+  # footer settings
   page-footer: 
     left: |
       <span class="faux-block">&#169; 2023 Moritz Schwarz</span>
+    #background: light
     # center: |
     #   <span class="faux-block"><a </a></span>
     # right: |
