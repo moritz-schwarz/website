@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "About"
+  },
+  {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Work in Progress",
@@ -12,12 +19,5 @@
     "title": "Teaching Assistance",
     "section": "",
     "text": "Teaching Assistance"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
-    "section": "",
-    "text": "About"
   }
 ]
