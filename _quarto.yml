@@ -22,6 +22,8 @@ website:
         href: research/index.qmd
       - text: Teaching
         href: teaching/index.qmd        
+      # - text: Policy
+      #   href: policy/index.qmd 
   page-footer: 
     left: |
       <span class="faux-block">&#169; 2023 Moritz Schwarz</span>
@@ -33,7 +35,4 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-
-
-
+    toc: false

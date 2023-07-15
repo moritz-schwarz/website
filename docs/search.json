@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "I am an (upcoming) PhD candidate at the University of Vienna."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Work in Progress",
+    "section": "",
+    "text": "Work in Progress"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "TA",
+    "section": "",
+    "text": "TA"
+  }
+]
