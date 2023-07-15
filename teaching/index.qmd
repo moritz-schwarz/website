@@ -2,5 +2,5 @@
 title: ""
 ---
 
-# TA
+# Teaching Assistance
 <!-- - 2024 summer -- Decision and Game Theory (BA) -->

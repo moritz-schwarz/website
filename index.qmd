@@ -1,5 +1,6 @@
 ---
-title: "About"
+title: ""
 ---
 
+# About
 <!-- I am an (upcoming) PhD candidate at the University of Vienna.  -->
