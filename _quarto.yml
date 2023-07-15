@@ -1,10 +1,18 @@
+# project settings
 project:
   type: website
   output-dir: docs
 
+# website settings
 website:
   title: "Moritz Schwarz"
+  description: "My personal website"
+  # image: images/logo.png
+  # favicon: images/logo.png
+
   navbar:
+    # logo: images/logo.png
+    pinned: true
     right:
       - href: index.qmd
         text: Home
@@ -12,7 +20,13 @@ website:
         text: CV
       - research.qmd
       - teaching.qmd        
-
+  page-footer: 
+    left: |
+      <span class="faux-block">&#169; 2023 Moritz Schwarz</span>
+    # center: |
+    #   <span class="faux-block"><a </a></span>
+    # right: |
+    #   <span class="faux-block"><a </a></span>
 format:
   html:
     theme: cosmo
