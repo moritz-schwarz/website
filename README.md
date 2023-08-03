@@ -1,2 +1,2 @@
-# my personal website
-written in [quarto](https://quarto.org/docs/websites/), rendered using [VS Code]([url](https://marketplace.visualstudio.com/items?itemName=quarto.quarto).
+**My personal website** <br>
+Written in [quarto](https://quarto.org/docs/websites/), rendered in™ [VS Code](https://marketplace.visualstudio.com/items?itemName=quarto.quarto).
