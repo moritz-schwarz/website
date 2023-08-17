@@ -1,1 +1,1 @@
-Sitemap: https://www.moritz-schwarz.com/sitemap.xml
+Sitemap: www.moritz-schwarz.com/sitemap.xml
