@@ -1,6 +1,8 @@
 ---
-title: ""
+title: "Teaching"
 ---
+
+<body class="no_title">
 
 # University of Vienna
 - 2024    TA for Decision and Game Theory (BSc) – scheduled

@@ -1,6 +1,8 @@
 ---
-title: ""
+title: "Research"
 ---
+
+<body class="no_title">
 
 # Projects
 
@@ -8,4 +10,4 @@ title: ""
 - Consumer inertia and switching behavior (part of DFG group *"Consumer Preferences, Consumer Mistakes, and Firms’ response"*, Uni Vienna PI Christine Zulehner, Frankfurt School PI Heiko Karle, project leader Paul Heidhues)
 <!-- # Working Papers -->
 
-<!-- # Published -->
+<!-- # Publications -->

@@ -6,7 +6,13 @@ div.quarto-about-trestles .about-entity .about-link {
     border: solid 0px;
   }
 
-  div {
+div {
     text-align: justify;
     text-justify: inter-word;
+  }
+
+  /* The dot indicates a class, whenever I want no title put <body class="no_title"> on that page see here:
+  https://stackoverflow.com/questions/5639234/how-can-i-apply-css-style-changes-just-for-one-page */
+.no_title  h1.title {
+    opacity: 0 !important;
   }
