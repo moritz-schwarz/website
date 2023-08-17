@@ -38,7 +38,7 @@ website:
     #   <span class="faux-block"><a </a></span>
     # right: |
     #   <span class="faux-block"><a </a></span>
-  site-url: www.moritz-schwarz.com 	
+  site-url: https://www.moritz-schwarz.com 	
   back-to-top-navigation: true
 
 ### Format Settings
