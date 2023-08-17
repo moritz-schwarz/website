@@ -10,7 +10,7 @@ website:
   # image: images/logo.png
   # favicon: images/logo.png
 
-# navigation bar and sections
+  # navigation bar and sections
   navbar:
     # logo: images/logo.png
     pinned: true
@@ -19,12 +19,15 @@ website:
         href: index.qmd
       - text: CV
         href: cv/cv.pdf
+        #target: cv/cv.pdf
       - text: Research  
         href: research/index.qmd
       - text: Teaching
         href: teaching/index.qmd        
       # - text: Policy
       #   href: policy/index.qmd 
+      #- icon: rss
+      #  href: index.xml
   search: true
   # footer settings
   page-footer: 
@@ -35,14 +38,23 @@ website:
     #   <span class="faux-block"><a </a></span>
     # right: |
     #   <span class="faux-block"><a </a></span>
+  site-url: www.moritz-schwarz.com 	
+  back-to-top-navigation: true
+
+### Format Settings
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: false
 
-
 # potentially useful settings 
+# RSS settings    https://quarto.org/docs/websites/website-blog.html
+# listing: feed
+#     title: Moritz Schwarz
+#     description: New Research by Moritz Schwarz 
+#     language: en
+
 #       preview: 
 #     port: 22222
 #     browser: true

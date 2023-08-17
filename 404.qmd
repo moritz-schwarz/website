@@ -2,4 +2,4 @@
 title: "404"
 ---
 
-Page not found! Perhaps, navigate back to [home](index.qmd) and try the search.
+Page not found! Perhaps, try the search or navigate back to [home](index.qmd).

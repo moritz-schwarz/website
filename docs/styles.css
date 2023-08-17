@@ -1,1 +1,12 @@
 /* css styles */
+/* remove border of social media links */
+div.quarto-about-trestles .about-entity .about-link {
+    color: #686d71;
+    text-decoration: none;
+    border: solid 0px;
+  }
+
+  div {
+    text-align: justify;
+    text-justify: inter-word;
+  }

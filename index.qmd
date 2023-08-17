@@ -1,6 +1,44 @@
 ---
-title: ""
+title: "Moritz Schwarz"
+subtitle: "PhD Candidate @ Uni Vienna"
+about:
+  template: trestles # trestles broadside jolla solana marquee 
+  image: images/me.jpg
+  image-shape: round # rectangle
+  links:
+    # - icon: google # images/googlescholar.png
+    #   text: Google Scholar
+    #   href: https://scholar.google.com
+    # - icon: mastodon
+    #   text: econtwitter
+    #   href: https://econtwitter.net/@moritz_schwarz
+    - icon: github
+      text: Github
+      href: https://github.com/moritz-schwarz
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/moritz-schwarz/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/_MoritzSchwarz
 ---
 
+
 # About
-<!-- I am an (upcoming) PhD candidate at the University of Vienna.  -->
+I am a PhD candidate in Economics at the University of Vienna. Currently, I am working on projects related to demand estimation, behavioural biases, and collusive pricing. Previously, I worked for 3 years as a competition economist in the public and private sectors.
+
+You can meet me at the workshop of the DFG group "Consumer Preferences, Consumer Mistakes, and Firms’ Response" at DICE, Düsseldorf during 5--7 Sept 2023.
+
+## Research Interests
+Empirical Industrial Organization
+
+Competition Economics
+
+## Contact
+University of Vienna  <br>
+Oskar-Morgenstern-Platz 1 <br>
+1090 Vienna, Austria <br>
+<span>T: +43 1 </span><span style="display:none;">HIDDEN_TEXT_TO_BLOCK SPAM</span><span>4277 37472</span> <br>
+<span>E: moritz.schwarz@</span><span style="display:none;">HIDDEN_TEXT_TO_BLOCK SPAM</span><span>univie.ac.at</span> 
+
+<!-- Room 03.314 <br> -->

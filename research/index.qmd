@@ -2,8 +2,10 @@
 title: ""
 ---
 
-# Work in Progress
+# Projects
 
+- The 19th century sugar cartel in Austria-Hungary (joint with Nikolaus Fink, Philipp Schmidt-Dengler, and Christine Zulehner)
+- Consumer inertia and switching behavior (part of DFG group *"Consumer Preferences, Consumer Mistakes, and Firms’ response"*, Uni Vienna PI Christine Zulehner, Frankfurt School PI Heiko Karle, project leader Paul Heidhues)
 <!-- # Working Papers -->
 
 <!-- # Published -->
