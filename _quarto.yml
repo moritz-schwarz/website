@@ -12,13 +12,14 @@ website:
   # navigation bar and sections
   navbar:
     # logo: images/logo.png
+    # hamburger menu
+    collapse: true 
     pinned: true
     right:
       - text: Home
         href: index.qmd
       - text: CV
-        href: cv/cv.pdf
-        #target: cv/cv.pdf
+        href: "cv/Moritz Schwarz - CV.pdf"
       - text: Research  
         href: research/index.qmd
       - text: Teaching
