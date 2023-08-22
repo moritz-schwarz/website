@@ -1,4 +1,0 @@
-Redirect 301 https://www.moritz-schwarz.com/cv/cv.pdf https://www.moritz-schwarz.com/cv/
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_URI} (.+)/$
-RewriteRule ^ %1 [R=301,L]
