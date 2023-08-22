@@ -6,10 +6,9 @@ project:
 # website settings
 website:
   title: "Moritz Schwarz"
-  description: "My personal website"
+  description: "I am a PhD candidate in Economics at the University of Vienna. My research interests include Empirical Industrial Organization and Competition Economics."
   # image: images/logo.png
   # favicon: images/logo.png
-
   # navigation bar and sections
   navbar:
     # logo: images/logo.png
