@@ -29,7 +29,7 @@ about:
 # About
 I am a PhD candidate in Economics at the [University of Vienna](https://econ.univie.ac.at/). Currently, I am working on [projects](https://www.moritz-schwarz.com/research/) related to demand estimation, behavioural biases, and collusive pricing. Previously, I worked for 3 years as a competition economist in the public and private sectors -- CV [here](https://www.moritz-schwarz.com/cv/).
 
-You can meet me at the workshop of the DFG group "Consumer Preferences, Consumer Mistakes, and Firms’ Response" at DICE, Düsseldorf during 5--7 Sept 2023.
+You can meet me at the workshop of the DFG group *"Consumer Preferences, Consumer Mistakes, and Firms’ Response"* at DICE, Düsseldorf during 5--7 Sept 2023.
 
 ## Research Interests
 Empirical Industrial Organization
