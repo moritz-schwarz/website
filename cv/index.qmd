@@ -1,5 +1,10 @@
 ---
 title: "CV"
+aliases: 
+  - cv/cv.pdf
+  - cv.pdf
+  - cv.html
+  - cv/cv.html
 ---
 
 <!-- This HTML Code immediately redirects the user to the PDF of my CV if she enters moritz-schwarz/cv/ -->
