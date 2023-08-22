@@ -11,8 +11,15 @@ div {
     text-justify: inter-word;
   }
 
+  /* new class for pages where title is not shown as a heading */
   /* The dot indicates a class, whenever I want no title put <body class="no_title"> on that page see here:
   https://stackoverflow.com/questions/5639234/how-can-i-apply-css-style-changes-just-for-one-page */
 .no_title  h1.title {
     opacity: 0 !important;
   }
+
+  /* center title, note subtitle is already centered by default */
+  .title {
+    text-align: center;
+  }
+  
