@@ -24,7 +24,7 @@ about:
       href: https://twitter.com/_MoritzSchwarz
 ---
 
-<title> I am a PhD candidate in Economics at the University of Vienna. My research interests include Empirical Industrial Organization and Competition Economics. </title>
+<title> Moritz Schwarz · PhD Candidate · University of Vienna. I am a PhD candidate in Economics at the University of Vienna. My research interests include Empirical Industrial Organization and Competition Economics. </title>
 
 # About
 I am a PhD candidate in Economics at the [University of Vienna](https://econ.univie.ac.at/). Currently, I am working on [projects](https://www.moritz-schwarz.com/research/) related to demand estimation, behavioural biases, and collusive pricing. Previously, I worked for 3 years as a competition economist in the public and private sectors -- full CV [here](https://www.moritz-schwarz.com/cv/cv.pdf).
