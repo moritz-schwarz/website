@@ -1,9 +1,0 @@
-<!-- does not work on Github pages -->
-<!-- see here: https://github.com/orgs/community/discussions/23723 -->
-
-
-<!-- here cool snippets https://github.com/phanan/htaccess#remove-trailing-slash -->
-Redirect 301 https://www.moritz-schwarz.com/cv/cv.pdf https://www.moritz-schwarz.com/cv/
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_URI} (.+)/$
-RewriteRule ^ %1 [R=301,L]
