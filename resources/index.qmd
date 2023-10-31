@@ -1,0 +1,7 @@
+---
+title: "Resources"
+---
+
+<!-- This HTML Code immediately redirects the user to a resource if she enters moritz-schwarz/resource/ -->
+<!-- see here: http://www.web-source.net/html_redirect.htm -->
+<meta HTTP-EQUIV="REFRESH" content="0; url=https://www.moritz-schwarz.com/cv/slides.pptx">
