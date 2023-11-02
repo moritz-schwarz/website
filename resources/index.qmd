@@ -5,4 +5,6 @@ title: "Resources"
 <!-- This HTML Code immediately redirects the user to a resource if she enters moritz-schwarz/resource/ -->
 <!-- see here: http://www.web-source.net/html_redirect.htm -->
 
-<a href="slides.pdf" download="slides.pdf">Download Slides</a>
+<a href="slides.pdf" download="slides.pdf">Download slides</a>
+
+<!-- <a href="slides2.pdf" download="slides2.pdf">Download slides2</a> -->
