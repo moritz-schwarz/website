@@ -22,7 +22,7 @@ about:
     - icon: twitter
       text: X
       href: https://twitter.com/_MoritzSchwarz
-    - icon: clouds
+    - icon: clouds #-fill
       text: Bluesky
       href: https://bsky.app/profile/moritz-schwarz.bsky.social
 ---
