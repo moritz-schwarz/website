@@ -6,11 +6,11 @@ title: "Research"
 
 # Projects
 
-- **The 19th century sugar cartel in Austria-Hungary** <br>
+- **Collusion in the Austro-Hungarian Sugar Industry 1889-1914** <br>
 with Nikolaus Fink, Philipp Schmidt-Dengler, and Christine Zulehner
 - **Consumer inertia and switching behavior**
 <br>
-part of the [research group](https://www.dice.hhu.de/en/news-1/millionenfoerderung-der-dfg-und-des-oesterreichischen-fwf-fuer-das-projekt-consumer-preferences-consumer-mistakes-and-forms-response-mit-sprecher-paul-heidhues-dice-hhu) *"Consumer Preferences, Consumer Mistakes, and Firms’ Response"* <br>
+part of the [research unit](https://www.dice.hhu.de/dfg-research-unit) *"Consumer Preferences, Consumer Mistakes, and Firms’ Response"* <br>
 Uni Vienna PI Christine Zulehner, Frankfurt School PI Heiko Karle, speaker Paul Heidhues
 <!-- # Working Papers -->
 
