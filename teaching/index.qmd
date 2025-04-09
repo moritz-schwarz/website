@@ -5,6 +5,7 @@ title: "Teaching"
 <body class="no_title">
 
 # University of Vienna
+- 2025    TA for Decision and Game Theory (BSc)
 - 2024    TA for Decision and Game Theory (BSc)
 
 # Masaryk University
