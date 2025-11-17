@@ -5,10 +5,12 @@ title: "Teaching"
 <body class="no_title">
 
 # University of Vienna
+- 2026    TA for Decision and Game Theory (BSc) – scheduled
 - 2025    TA for Decision and Game Theory (BSc)
 - 2024    TA for Decision and Game Theory (BSc)
 
 # Masaryk University
+- 2025    Guest lecture in Competition Economics 2 (MSc) – scheduled
 - 2024    Guest lecture in Competition Economics 2 (MSc)
 - 2023    Guest lecture in Competition Economics 2 (MSc)
 - 2022    Guest lecture in Competition Economics 2 (MSc)
